@@ -83,7 +83,7 @@ yarn axe
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
-- - [AXE Accessibility Style Guide](https://dequeuniversity.com/rules/axe/html/4.7)
+- [AXE Accessibility Style Guide](https://dequeuniversity.com/rules/axe/html/4.7)
 
 ## 👤 Author
 
